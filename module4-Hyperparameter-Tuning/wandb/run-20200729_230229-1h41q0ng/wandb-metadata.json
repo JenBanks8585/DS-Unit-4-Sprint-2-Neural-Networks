@@ -1,0 +1,26 @@
+{
+    "root": "C:/Users/J8015/Desktop/DS-Unit-4-Sprint-2-Neural-Networks",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/JenBanks8585/DS-Unit-4-Sprint-2-Neural-Networks.git",
+        "commit": "71e104353234d0a421255f404525c205cc958916"
+    },
+    "email": "59672512+JenBanks8585@users.noreply.github.com",
+    "startedAt": "2020-07-30T02:57:31.340985",
+    "host": "LAPTOP-182LUNOM",
+    "username": "J8015",
+    "executable": "C:\\Users\\J8015\\anaconda3\\envs\\U4S12-NLP\\python.exe",
+    "os": "Windows-10-10.0.18362-SP0",
+    "python": "3.7.0",
+    "cpu_count": 4,
+    "args": [
+        "-f",
+        "C:\\Users\\J8015\\AppData\\Roaming\\jupyter\\runtime\\kernel-f0c45725-2454-43a9-84f8-34b86db27bd0.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "northern-star-11",
+    "project": "dspt5-proj",
+    "heartbeatAt": "2020-07-30T03:03:50.269730"
+}
